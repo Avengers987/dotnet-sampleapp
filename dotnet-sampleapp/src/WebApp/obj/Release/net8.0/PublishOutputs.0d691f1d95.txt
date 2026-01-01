@@ -1,5 +1,0 @@
-C:\Users\saipr\dotnet-sampleapp\src\WebApp\bin\Release\net8.0\publish\WebApp.exe
-C:\Users\saipr\dotnet-sampleapp\src\WebApp\bin\Release\net8.0\publish\WebApp.dll
-C:\Users\saipr\dotnet-sampleapp\src\WebApp\bin\Release\net8.0\publish\WebApp.deps.json
-C:\Users\saipr\dotnet-sampleapp\src\WebApp\bin\Release\net8.0\publish\WebApp.runtimeconfig.json
-C:\Users\saipr\dotnet-sampleapp\src\WebApp\bin\Release\net8.0\publish\WebApp.pdb
