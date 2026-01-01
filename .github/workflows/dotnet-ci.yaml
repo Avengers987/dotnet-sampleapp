@@ -33,3 +33,6 @@ jobs:
 
       - name: Test
         run: dotnet test --no-build tests/Webapp.tests/WebApp.Tests.csproj
+        
+      - name: Publish
+        run: dotnet publish src/WebApp/WebApp.csproj -c Release -o publish
