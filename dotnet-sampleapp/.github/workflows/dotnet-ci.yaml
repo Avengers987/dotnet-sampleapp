@@ -1,5 +1,5 @@
 name: .NET CI Pipeline
-
+#details
 on:
   push:
   pull_request:
