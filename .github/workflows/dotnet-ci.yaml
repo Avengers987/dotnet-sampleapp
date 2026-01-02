@@ -33,6 +33,18 @@ jobs:
 
       - name: Test
         run: dotnet test --no-build tests/Webapp.tests/WebApp.Tests.csproj
+<<<<<<< HEAD
         
       - name: Publish
         run: dotnet publish src/WebApp/WebApp.csproj -c Release -o publish
+=======
+
+              - name: Publish
+        run: dotnet publish src/WebApp/WebApp.csproj -c Release -o publish
+
+      - name: Upload publish artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: webapp-publish
+          path: publish/
+>>>>>>> feature1
