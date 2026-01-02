@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\saipr\\dotnet-sampleapp\\tests\\Webapp.tests\\WebApp.Tests.csproj": {}
+    "C:\\Users\\saipr\\dotnet\\dotnet-sampleapp\\tests\\Webapp.tests\\WebApp.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\saipr\\dotnet-sampleapp\\tests\\Webapp.tests\\WebApp.Tests.csproj": {
+    "C:\\Users\\saipr\\dotnet\\dotnet-sampleapp\\tests\\Webapp.tests\\WebApp.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\saipr\\dotnet-sampleapp\\tests\\Webapp.tests\\WebApp.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\saipr\\dotnet\\dotnet-sampleapp\\tests\\Webapp.tests\\WebApp.Tests.csproj",
         "projectName": "WebApp.Tests",
-        "projectPath": "C:\\Users\\saipr\\dotnet-sampleapp\\tests\\Webapp.tests\\WebApp.Tests.csproj",
+        "projectPath": "C:\\Users\\saipr\\dotnet\\dotnet-sampleapp\\tests\\Webapp.tests\\WebApp.Tests.csproj",
         "packagesPath": "C:\\Users\\saipr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\saipr\\dotnet-sampleapp\\tests\\Webapp.tests\\obj\\",
+        "outputPath": "C:\\Users\\saipr\\dotnet\\dotnet-sampleapp\\tests\\Webapp.tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\saipr\\AppData\\Roaming\\NuGet\\NuGet.Config"

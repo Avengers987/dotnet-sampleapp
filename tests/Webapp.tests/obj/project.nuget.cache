@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fcQAWc7rogs=",
+  "dgSpecHash": "05aZCdB94xo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\saipr\\dotnet-sampleapp\\tests\\Webapp.tests\\WebApp.Tests.csproj",
+  "projectFilePath": "C:\\Users\\saipr\\dotnet\\dotnet-sampleapp\\tests\\Webapp.tests\\WebApp.Tests.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
